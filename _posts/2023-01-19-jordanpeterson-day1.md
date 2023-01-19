@@ -6,7 +6,7 @@ tag: [JordanPeterson]
 toc: true
 author_profile: false
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 #### Jordan Peterson - Day1

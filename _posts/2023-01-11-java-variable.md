@@ -2,7 +2,7 @@
 layout: single
 title: "변수"
 categories: Java
-tag: [자바의 정석, 변수]
+tag: [자바의 정석 - 변수]
 toc: true
 author_profile: false
 sidebar:
